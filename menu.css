@@ -1,0 +1,29 @@
+body{
+    background:#201F3A;
+    display: flex;
+    justify-content: space-between;
+}
+a{
+    text-decoration:none;
+    color: white;
+}
+.menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    text-align: center;
+    width: 80%;
+}
+.menu a{
+    margin: 20px;
+    margin-top:10%;
+    margin-left: 20%;
+}
+
+.cancel a img{
+    width: 30px;
+    height: 30px;
+
+}
